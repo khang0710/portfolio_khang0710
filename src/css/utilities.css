@@ -136,17 +136,19 @@ h2::selection {
 
 /* project 1 */
 .card:nth-child(1) {
-  background: url(../assets/project/project-one.png) center center/cover;
+  background: url(../assets/Screenshot\ 2025-03-31\ 211715.png) center
+    center/cover;
 }
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/project/project-two.png) center center/cover;
+  background: url(../assets/Ảnh\ chụp\ màn\ hình\ 2024-10-06\ 234125.png) center
+    center/cover;
 }
 
 /* Project 3 */
 .card:nth-child(3) {
-  background: url(../assets/project/project-three.png) center center/cover;
+  background: url(../assets/Spotify.jpg) center center/cover;
 }
 
 /* Project 4 */
